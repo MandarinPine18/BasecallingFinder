@@ -1,3 +1,5 @@
+# server
+
 import socket
 
 HOST = "localhost"  # will listen on localhost (127.0.0.1)

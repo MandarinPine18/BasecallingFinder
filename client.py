@@ -1,3 +1,5 @@
+# client
+
 import socket
 
 HOST = 'localhost'  # will send to localhost (127.0.0.1)
